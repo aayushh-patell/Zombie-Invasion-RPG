@@ -1,0 +1,4 @@
+sceneSetups:
+- path: Assets/Sprites/Tiny RPG Forest/Scenes/Demo.unity
+  isLoaded: 1
+  isActive: 1
